@@ -1,0 +1,7 @@
+{
+    "name" : "Example for demoing AMP",
+    "connection" : "&ibmi1",
+    "includePath" : "QRPGLESRC",
+    "repository" : "https://github.com/edmundreinhardt/william-example.git",
+	"sourceLocation" : "&dir1"
+}
